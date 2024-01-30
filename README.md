@@ -1,1 +1,1 @@
-:key:	 :snowflake: :keyboard:	
+:key:
